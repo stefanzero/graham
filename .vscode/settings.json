@@ -18,5 +18,9 @@
     "titleBar.inactiveBackground": "#c7548999",
     "titleBar.inactiveForeground": "#e7e7e799"
   },
-  "peacock.color": "#c75489"
+  "peacock.color": "#c75489",
+  "liveServer.settings.port": 5501,
+  "cSpell.words": [
+    "venv"
+  ]
 }
